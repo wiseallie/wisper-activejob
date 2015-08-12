@@ -22,5 +22,5 @@ Gem::Specification.new do |spec|
 
   spec.add_dependency 'wisper'
   # spec.add_dependency 'activejob'
-  spec.add_dependency 'rails', '=> 4.2.0', '<= 4.3.0'
+  spec.add_dependency 'rails', '>= 4.2.0', '<= 4.3.0'
 end
